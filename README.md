@@ -22,8 +22,7 @@
 ---
 
 ### 📌 Projects
-- 🛒 **Crowdsourcing기반 Price app** – Kotlin + Spring 기반 졸업작품
-- 💡 **Material Recommendation AI** – GCP Vertex AI 기반 건축 자재 추천 챗봇
+- 🛒 **Crowdsourcing기반 Price app** – Kotlin + Spring 기반 졸업작품 : Frontend (Kotlin)
 
 ---
 
@@ -31,6 +30,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=taehyun0223&show_icons=true&theme=tokyonight" alt="taehyun0223 stats" />
+  [![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun0223&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyun0223&layout=compact&theme=tokyonight" alt="taehyun0223 top langs" />
 </p>
 
