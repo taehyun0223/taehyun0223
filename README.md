@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehyun0223&layout=dark&theme=onedark)
+
 ![taehyun0223's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun0223&show_icons=true&theme=dark)   
 
 <!--
