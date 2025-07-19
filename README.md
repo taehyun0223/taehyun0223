@@ -1,4 +1,4 @@
-## Hi there 👋
+![taehyun0223's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun0223&show_icons=true&theme=dark)   
 
 <!--
 **taehyun0223/taehyun0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
