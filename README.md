@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taehyun</h1>
+<h1 align="center">Hi 👋, I'm Taehyun Kim</h1>
 <h3 align="center">A passionate developer from Korea 🇰🇷</h3>
 
 <p align="center">
