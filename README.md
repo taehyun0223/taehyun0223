@@ -30,7 +30,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=taehyun0223&show_icons=true&theme=tokyonight" alt="taehyun0223 stats" />
-  <img src="https://your-vercel-name.vercel.app/api/top-langs/?username=taehyun0223&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-4d124z3b7-taehyun0223s-projects.vercel.app/api/top-langs/?username=taehyun0223&count_private=true&theme=tokyonight" />
 
 </p>
 
