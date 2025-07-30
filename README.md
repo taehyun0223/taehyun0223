@@ -8,7 +8,7 @@
 
 ### 📫 Contact
 
-📧 taehyun0223@gmail.com
+📧 kimtae5993@gmail.com
 
 
 
